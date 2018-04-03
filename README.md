@@ -35,6 +35,6 @@ I plan to release updates to this project. I would like to add additional featur
   - Microsoft Excel
 
 #### Notes
-  - Currently to change the Excel file or dictionary file, you must go into the source code and change the two variables at the top of the file.
+  - Currently, to change the Excel file or dictionary file, you must go into the source code and change the two variables at the top of the file (gasDictFile and excelFile).
   - The script is saved with a .pyw extension to prevent the console from opening when you click on the script.
   - The script can be modified to work with other spreadsheet file formats
