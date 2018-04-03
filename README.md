@@ -10,9 +10,9 @@ The RSD Tool is a small python application designed to aid in assisting a gas ch
 Modules Used
 
 Python Standard Library
--tkinter - Used to provide a GUI
--decimal - Used to provide accurate floating point arithmetic
--time - Used to enter formatted time into the Excel sheet 
+  -tkinter - Used to provide a GUI
+  -decimal - Used to provide accurate floating point arithmetic
+  -time - Used to enter formatted time into the Excel sheet 
 
 Third Party Modules
 -openpyxl - Used to connect to Microsoft Excel
@@ -31,8 +31,8 @@ I plan to release updates to this project. I would like to add additional featur
 How to Use
 
 System Requirements
--Python 3
--Microsoft Excel
+  -Python 3
+  -Microsoft Excel
 
 -Currently to change the Excel file or dictionary file, you must go into the source code and change the two variables at the top of the file.
 -The script is saved with a .pyw extension to prevent the console from opening when you click on the script.
