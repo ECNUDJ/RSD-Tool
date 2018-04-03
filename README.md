@@ -21,18 +21,18 @@ Third Party Modules
 
 I made this for myself to use at work as a QC chemist at an industrial compressed gas company. It will make my life a little easier. This app could be useful for anyone who needs to calculate RSD values and wants to store that data locally in an Excel file without having to physically open that file and enter the values manually.
 
-## What is the goal of this project?
+## Project Goals
 
 I plan to release updates to this project. I would like to add additional features including but not limited to:
-  -Expanding the 'Settings' window to allow for more customization
-  -Allowing for MySQL connection as an alternative to Excel
-  -General aesthetic improvements 
+  - Expanding the 'Settings' window to allow for more customization
+  - Allowing for MySQL connection as an alternative to Excel
+  - General aesthetic improvements 
 
 ## How to Use
 
-System Requirements
-  -Python 3
-  -Microsoft Excel
+### System Requirements
+  - Python 3
+  - Microsoft Excel
 
 -Currently to change the Excel file or dictionary file, you must go into the source code and change the two variables at the top of the file.
 -The script is saved with a .pyw extension to prevent the console from opening when you click on the script.
