@@ -9,7 +9,7 @@ The RSD Tool is a small python application designed to aid in assisting a gas ch
 
 ## Modules Used
 
-Python Standard Library
+Python Standard Library \n
   -tkinter - Used to provide a GUI
   -decimal - Used to provide accurate floating point arithmetic
   -time - Used to enter formatted time into the Excel sheet 
