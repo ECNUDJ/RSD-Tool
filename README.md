@@ -30,9 +30,11 @@ I plan to release updates to this project. I would like to add additional featur
 
 ## How to Use
 
-### System Requirements
+#### System Requirements
   - Python 3
   - Microsoft Excel
 
--Currently to change the Excel file or dictionary file, you must go into the source code and change the two variables at the top of the file.
--The script is saved with a .pyw extension to prevent the console from opening when you click on the script.
+#### Notes
+  - Currently to change the Excel file or dictionary file, you must go into the source code and change the two variables at the top of the file.
+  - The script is saved with a .pyw extension to prevent the console from opening when you click on the script.
+  - The script can be modified to work with other spreadsheet file formats
