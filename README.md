@@ -9,12 +9,12 @@ The RSD Tool is a small python application designed to aid in assisting a gas ch
 
 ## Modules Used
 
-**Python Standard Library** 
+Python Standard Library
   - tkinter - Used to provide a GUI
   - decimal - Used to provide accurate floating point arithmetic
   - time - Used to enter formatted time into the Excel sheet 
 
-**Third Party Modules**
+Third Party Modules
   - openpyxl - Used to connect to Microsoft Excel
 
 ## Who is it for?
@@ -30,11 +30,11 @@ I plan to release updates to this project. I would like to add additional featur
 
 ## How to Use
 
-#### System Requirements
+System Requirements
   - Python 3
   - Microsoft Excel
 
-#### Notes
+Notes
   - Currently, to change the Excel file or dictionary file, you must go into the source code and change the two variables at the top of the file (gasDictFile and excelFile).
   - The script is saved with a .pyw extension to prevent the console from opening when you click on the script.
   - The script can be modified to work with other spreadsheet file formats
