@@ -1,0 +1,3 @@
+CX5000:1% Air Bal He
+CX4810:1% O2 Bal N2
+CX2902:9.82% CO2, 19.95% O2, Bal N2
