@@ -42,6 +42,6 @@ Notes
 
 ## Created By
 
-James Gibson
-github.com/jtgibson91
+James Gibson  
+github.com/jtgibson91  
 jtgibson91@gmail.com
