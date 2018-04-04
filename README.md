@@ -19,11 +19,11 @@ Third Party Modules
 
 ## Who is it for?
 
-I made this for myself to use at work as a QC chemist at an industrial compressed gas company. It will make my life a little easier. This app could be useful for anyone who needs to calculate RSD values and wants to store that data locally in an Excel file without having to physically open that file and enter the values manually.
+I made this for myself to use at work as a QC chemist at an industrial compressed gas company. It will make my life a little easier. This app could be useful for anyone who needs to calculate RSD values and wants to store that data locally in an Excel file, without having to physically open that file and enter the values manually.
 
 ## Project Goals
 
-I plan to release updates to this project. I would like to add additional features including but not limited to:
+I plan to release updates for this project. I would like to add additional features including but not limited to:
   - Expanding the 'Settings' window to allow for more customization
   - Allowing for MySQL connection as an alternative to Excel
   - General aesthetic improvements 
