@@ -38,3 +38,10 @@ Notes
   - Currently, to change the Excel file or dictionary file, you must go into the source code and change the two variables at the top of the file (gasDictFile and excelFile).
   - The script is saved with a .pyw extension to prevent the console from opening when you click on the script. To start the program, all you need to do is double click on 'RSD Tool.pyw'
   - The script can be modified to work with other spreadsheet file formats
+
+
+## Created By
+
+James Gibson
+github.com/jtgibson91
+jtgibson91@gmail.com
